@@ -6,8 +6,8 @@ jobs:
     - checkout
     - contrastsecurity/check-vulnerabilities:
         severities: MEDIUM 
-        org-id: 0b4acb35-f2b2-4d20-a392-25bcf9eae0cb
-        application-id: 0160b2bf-520a-40b0-b090-bdd8322e2b02
+        org-id: a09a6314-c084-420c-b4fb-9b61794c3d0c
+        application-id: c4647389-82f4-4013-aac6-f62dc8a58990
         contrast-url: https://apptwo.contrastsecurity.com/Contrast
 
 orbs:
