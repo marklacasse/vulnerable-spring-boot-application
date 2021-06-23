@@ -9,7 +9,7 @@ jobs:
         org-id: a09a6314-c084-420c-b4fb-9b61794c3d0c
         application-id: c4647389-82f4-4013-aac6-f62dc8a58990
         contrast-url: https://apptwo.contrastsecurity.com/Contrast
-
+#update to 0.3.0
 orbs:
   contrastsecurity: contrastsecurity/verify@0.3.0
 workflows:
